@@ -16,7 +16,13 @@ Try it out!
 - **Macs** that supports **MacOS 10.15**
 
 ## Screenshots
-Light & Dark Mode:
+
+Dark Mode:
+| Home Screen             |  Detail Screen               |  Home Screen Refreshing | Home Screen Searching |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Dark-HomeScreen.PNG" width="300"> | <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Dark-DetailScreen.PNG" width="300"> | <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Dark-HomeScreen-Refreshing.PNG" width="300"> | <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Dark-HomeScreen-Searching.PNG" width="300">
+
+Light Mode:
 | Home Screen             |  Detail Screen               |  Home Screen Refreshing | Home Screen Searching |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Light-HomeScreen.PNG" width="300"> | <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Light-DetailScreen.PNG" width="300"> | <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Light-HomeScreen-Refreshing.PNG" width="300"> |<img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Light-HomeScreen-Searching.PNG" width="300">
