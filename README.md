@@ -16,9 +16,10 @@ Try it out!
 - **Macs** that supports **MacOS 10.15**
 
 ## Screenshots
+Light & Dark Mode:
 | Home Screen             |  Detail Screen               |  Home Screen Refreshing | Home Screen Searching |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/HomeScreen.PNG" width="300"> | <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/DetailScreen.PNG" width="300"> | <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/HomeScreen-Refreshing.PNG" width="300"> | <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/HomeScreen-Searching.PNG" width="300">
+<img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Light-HomeScreen.PNG" width="300"> | <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Light-DetailScreen.PNG" width="300"> | <img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Light-HomeScreen-Refreshing.PNG" width="300"> |<img src="https://github.com/SwiftiSwift/CoronaCases/blob/master/Screenshot-Images/Light-HomeScreen-Searching.PNG" width="300">
 
 ## Support
 <img src="https://pluspng.com/img-png/twitter-png-file-twitter-icon-png-256.png" width="50"> https://twitter.com/brownleemarq
